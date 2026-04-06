@@ -1,0 +1,19 @@
+# Data — never commit raw images
+data/
+*.jpg
+*.jpeg
+*.png
+*.zip
+
+# Training outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
